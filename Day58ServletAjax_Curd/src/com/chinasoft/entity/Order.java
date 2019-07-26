@@ -5,5 +5,6 @@ public class Order {
 	 int orderId;
 	 int ordernum;
 	 String orderName;
+	 String orderAddress;
 	 
 }
